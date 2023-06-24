@@ -21,7 +21,7 @@
 
 <h3>👨‍💻 Projetos de Cyber Security:</h3>
 
-- <b>WAF Simulando uma aplicação Hospedada WEB (WAF)</b>
+- <b>Simulando uma aplicação Hospedada WEB (WAF)</b>
   - [Praticando com Web Application Firewall](https://github.com/axlfranklin/-Lab)
 
 <h3> 🤳 Contatos:</h3>

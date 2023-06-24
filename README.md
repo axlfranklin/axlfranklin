@@ -22,7 +22,10 @@
 <h3>👨‍💻 Projetos de Cyber Security:</h3>
 
 - <b>Simulando uma aplicação Hospedada WEB (WAF)</b>
-  - [Praticando com Web Application Firewall](https://github.com/axlfranklin/-Lab)
+  - [Praticando com Web Application Firewall](https://github.com/axlfranklin/-Lab) 
+
+- <b>Script para Realizar Força Bruta em Domínio(WAF)</b>
+  - [Praticando com scripts em Python 3](https://github.com/axlfranklin/Descobrindo-Arquivos-Web/) 
 
 <h3> 🤳 Contatos:</h3>
 

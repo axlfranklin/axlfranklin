@@ -21,7 +21,7 @@
 
 <h3>👨‍💻 Projetos de Cyber Security:</h3>
 
-- <b>WAF Simulando uma aplicação Hospedada WEB (AlgoExpert)</b>
+- <b>WAF Simulando uma aplicação Hospedada WEB (WAF)</b>
   - [Praticando com Web Application Firewall](https://github.com/axlfranklin/-Lab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](link) <b><i>(Potentially NSFW)</b></i>

@@ -21,8 +21,8 @@
 
 <h3>👨‍💻 Projetos de Cyber Security:</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](link)
+- <b>WAF Simulando uma aplicação Hospedada WEB (AlgoExpert)</b>
+  - [Praticando com Web Application Firewall](https://github.com/axlfranklin/-Lab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](link) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

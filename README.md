@@ -1,8 +1,8 @@
-<h1>Olá, me chamo Axel! <br/><a href="https://github.com/axlfranklin">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/axlfranklin/">Analista de Cibersegurança</a>
+<h1>Olá, me chamo Axel! 🖐️📎💾 <br/><a href="https://github.com/axlfranklin">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/axlfranklin/">Analista de Cibersegurança</a>
 <b>
-  - Freelancer</b>
+  - Freelancer🕵️‍♂️</b>
 </h1>
-<h2>Certificações:</h2>
+<h2>📋 Certificações:</h2>
 
  <c> 
    

@@ -43,5 +43,5 @@
 [<img align="left" alt="axlfranklin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UC1R-8NoNBB6t42x3QzmwiwA
-[linkedin]: www.linkedin.com/in/axlfranklin
+[linkedin]: https://www.linkedin.com/in/axlfranklin/
 

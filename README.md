@@ -25,7 +25,10 @@
   - [Praticando com Web Application Firewall](https://github.com/axlfranklin/-Lab) 
 
 - <b>Script para Realizar Força Bruta em Domínio</b>
-  - [Praticando com scripts em Python 3](https://github.com/axlfranklin/Descobrindo-Arquivos-Web/) 
+  - [Praticando com scripts em Python 3](https://github.com/axlfranklin/Descobrindo-Arquivos-Web/)
+
+- <b>Auditoria de Segurança</b>
+  - [Auditória feita de uma empresa fictícia](https://github.com/axlfranklin/securityaudit) 
 
 <h3> 🤳 Contatos:</h3>
 

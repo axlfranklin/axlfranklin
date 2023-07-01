@@ -28,7 +28,7 @@
   - [Praticando com scripts em Python 3](https://github.com/axlfranklin/Descobrindo-Arquivos-Web/)
 
 - <b>Auditoria de Segurança</b>
-  - [Auditória feita de uma empresa fictícia](https://github.com/axlfranklin/securityaudit) 
+  - [Auditoria feita de uma empresa fictícia](https://github.com/axlfranklin/securityaudit) 
 
 <h3> 🤳 Contatos:</h3>
 

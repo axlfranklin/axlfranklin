@@ -1,4 +1,5 @@
 ## Hi! 👋 About Me:
+<img align="right" width="390" height="405" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
 
 ```ruby
 ┌──(root㉿kali)-[~]
@@ -9,8 +10,7 @@
 
 ┌──(axl㉿kali)-[~]
 └─# nano axl_profile.txt
-```
-```ruby
+
 =================================================
 GNU nano 7.2                    New Buffer
 

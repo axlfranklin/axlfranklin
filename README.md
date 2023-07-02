@@ -1,8 +1,5 @@
 ## Hi! 👋 About Me:
 
-</a><img align="right" width="295" height="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
-</a>
-
 ```ruby
 ┌──(root㉿kali)-[~]
 └─# su Axl

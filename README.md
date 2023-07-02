@@ -1,6 +1,7 @@
 ## Hi! 👋 About Me:
 
-<img align="right" width="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
+</a><img align="right" width="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
+</a>
 
 ```zsh
 ┌──(root㉿kali)-[~]
@@ -23,7 +24,11 @@ enjoy my projects as well, as a reminder I'm a
 Cyber Security Analyst Freelancer
 =================================================
 ```
-<h2>⌨️ My Skills And Technologies:</h2>
+</a><img width="295" height="130"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlfranklin&theme=tokyonight" /></a>
+<br/>
+<br/>
+<br/>
+<h2>⌨️ My Skills And Technologies:</h2> 
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)

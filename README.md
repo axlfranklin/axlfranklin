@@ -1,9 +1,9 @@
 ## Hi! 👋 About Me:
 
-</a><img align="right" width="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
+</a><img align="right" width="295" height="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
 </a>
 
-```zsh
+```kotlin
 ┌──(root㉿kali)-[~]
 └─# su Axl
 
@@ -13,21 +13,19 @@
 ┌──(axl㉿kali)-[~]
 └─# nano axl_profile.txt
 ```
-```
+```kotlin
 =================================================
 GNU nano 7.2                    New Buffer
-                                
+
 Hello Welcome to my Github! My name is Axel
 I'm looking for an internship and an opportunity
 to work as a cybersecurity analyst! Hope you
 enjoy my projects as well, as a reminder I'm a
 Cyber Security Analyst Freelancer
+
 =================================================
 ```
-</a><img width="295" height="130"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlfranklin&theme=tokyonight" /></a>
-<br/>
-<br/>
-<br/>
+
 <h2>⌨️ My Skills And Technologies:</h2> 
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)

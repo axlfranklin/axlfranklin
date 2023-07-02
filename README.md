@@ -3,7 +3,7 @@
 </a><img align="right" width="295" height="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
 </a>
 
-```kotlin
+```ruby
 ┌──(root㉿kali)-[~]
 └─# su Axl
 
@@ -13,7 +13,7 @@
 ┌──(axl㉿kali)-[~]
 └─# nano axl_profile.txt
 ```
-```kotlin
+```ruby
 =================================================
 GNU nano 7.2                    New Buffer
 

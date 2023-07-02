@@ -28,8 +28,10 @@
   - [Praticando com scripts em Python 3](https://github.com/axlfranklin/Descobrindo-Arquivos-Web/)
 
 - <b>Auditoria de Segurança</b>
-  - [Auditoria feita de uma empresa fictícia](https://github.com/axlfranklin/securityaudit) 
+  - [Auditoria feita de uma empresa fictícia](https://github.com/axlfranklin/securityaudit)
 
+- <b>Script para fazer requisições em HTTP</b>
+  - [Praticando em Python3 e a biblioteca *request*](https://github.com/axlfranklin/bannergrabber) 
 <h3> 🤳 Contatos:</h3>
 
 [<img align="left" alt="axlfranklin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

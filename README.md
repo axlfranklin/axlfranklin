@@ -76,12 +76,17 @@ Cyber Security Analyst Freelancer
 
 <h2>💾 Github Stats:</h2>
 
-
-<img height="180" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=axlfranklin&show_icons=true&theme=transparent">
-
-
-![Axl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axlfranklin&theme=github-compact)
-
+<h2 align="center"> 
+<table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axlfranklin&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=axlfranklin&theme=github_dark"/></td></tr>
+  </table>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=axlfranklin&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axlfranklin&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axlfranklin&theme=github_dark"/></td></tr>
+  </table>
+</h2>
 
 
 <h2>

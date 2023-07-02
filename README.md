@@ -77,8 +77,9 @@ Cyber Security Analyst Freelancer
 <h2>💾 Github Stats:</h2>
 
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axlfranklin&show_icons=true&theme=transparent)
+<img height="180" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=axlfranklin&show_icons=true&theme=transparent">
+
+<img height="180" width="436" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axlfranklin&layout=compact&langs_count=7&theme=gotham">
 
 ![Axl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axlfranklin&theme=github-compact)
 

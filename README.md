@@ -1,4 +1,4 @@
-<img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png" >  About Me:
+## Hi! 👋 About Me:
 
 <img align="right" width="300" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
 
@@ -10,8 +10,9 @@
 └─# echo 'Cyber Security Analyst Freelancer' >> axl_profile.txt
 
 ┌──(axl㉿kali)-[~]
-└─# cat axl_profile.txt
-
+└─# nano axl_profile.txt
+```
+```
 =================================================
 GNU nano 7.2                    New Buffer
                                 

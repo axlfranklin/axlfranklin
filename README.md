@@ -76,7 +76,7 @@ Cyber Security Analyst Freelancer
 
 <h2>💾 Github Stats:</h2>
 
-<h2 align="center"> 
+<a align="center"> 
 <table>
     <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axlfranklin&theme=github_dark"/></td><td>
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=axlfranklin&theme=github_dark"/></td></tr>
@@ -86,11 +86,9 @@ Cyber Security Analyst Freelancer
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axlfranklin&theme=github_dark"/></td><td>
     <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axlfranklin&theme=github_dark"/></td></tr>
   </table>
-</h2>
-
-
+</a>
 <h2>
-<br />🤳 Contacts:
+🤳 Contacts:
 <br />
 </h2>
    <a  href="https://www.youtube.com/channel/UC1R-8NoNBB6t42x3QzmwiwA"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
@@ -103,7 +101,6 @@ Cyber Security Analyst Freelancer
  <img align="left" alt="Instagram" title="Discord"
  src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/><a/>
    
- </h1>
 
 
 

@@ -1,7 +1,9 @@
-<h1>Olá, me chamo Axel! 🖐️📎💾 <br/><a href="https://github.com/axlfranklin">Ethical Hacker</a>, <a href="https://www.linkedin.com/in/axlfranklin/">Analista de Cibersegurança</a>
-<b>
-  - Red Team Freelancer🕵️‍♂</b>
-</h1>
+<h1>Olá, me chamo Axel! 🖐️📎💾  </h1>
+<c>
+  <a href="https://github.com/axlfranklin">Freelancer</a>, 
+<a href="https://www.linkedin.com/in/axlfranklin/">Analista de Cibersegurança</a> </c>
+ <h1>
+  
 <h2>📋 Certificações:</h2>
 
  <c> 
@@ -31,7 +33,7 @@
   - [Auditoria feita de uma empresa fictícia](https://github.com/axlfranklin/securityaudit)
 
 - <b>Script para fazer requisições em HTTP</b>
-  - [Praticando em Python3 e a biblioteca *request*](https://github.com/axlfranklin/bannergrabber) 
+  - [Praticando em Python3 e a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber) 
 <h3> 🤳 Contatos:</h3>
 
 [<img align="left" alt="axlfranklin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]

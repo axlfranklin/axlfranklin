@@ -1,14 +1,17 @@
-<h1>Hello, my name is Axel! 🖐️
+<h1>Hello, my name is Axel! 🖐️</h1>
   
 <a href="https://github.com/axlfranklin">Freelancer</a>, 
 <a href="https://www.linkedin.com/in/axlfranklin/">Cyber Security Analyst 🕵️‍♂</a>
-</h1>
-
+ 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-<h3>📋 Certifications:</h3>
+<h2 align="left"> 
+  📋 Certifications:
+</h2>
 
  <c> 
    
@@ -19,10 +22,7 @@
   - Google Cyber Security Professional (in progress)
   - Google IT Support Professional (in progress)
   - <a href="https://www.udemy.com/certificate/UC-e16c67cb-8cf3-4c64-a9b7-bed8ba0e1b20/"> Fundamentals of Ethical Hacking </a> - Udemy
-    
- 
 </c>
-
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -36,12 +36,27 @@
   - [Audit made of a fictitious company](https://github.com/axlfranklin/securityaudit)
 
 - <b>Script to make HTTP requests</b>
-  - [Practicing in Python3 and the library *requests*](https://github.com/axlfranklin/bannergrabber) 
-<h3> 🤳 Contatos:</h3>
+  - [Practicing in Python3 and the library *requests*](https://github.com/axlfranklin/bannergrabber)
 
-[<img align="left" alt="axlfranklin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="axlfranklin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h2>💾 Github Stats:</h2>
 
-[youtube]: https://www.youtube.com/channel/UC1R-8NoNBB6t42x3QzmwiwA
-[linkedin]: https://www.linkedin.com/in/axlfranklin/
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axlfranklin&show_icons=true&theme=transparent)
+
+![Axl's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axlfranklin&theme=github-compact)
+
+
+<h2>
+<br />🤳 Contacts:
+<br />
+</h2>
+   <a  href="https://www.youtube.com/channel/UC1R-8NoNBB6t42x3QzmwiwA"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <br />
+  <a  href="https://www.linkedin.com/in/axlfranklin/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <br />
+ <a  href="https://www.instagram.com/axlwasdead/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ </h1>
+
+
 

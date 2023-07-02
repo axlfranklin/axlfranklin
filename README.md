@@ -1,10 +1,10 @@
-<h1>Hello, my name is Axel! 🖐️📎💾  </h1>
-<c>
-  <a href="https://github.com/axlfranklin">Freelancer</a>, 
-<a href="https://www.linkedin.com/in/axlfranklin/">Cyber Security Analist</a> </c>
- <h1>
+<h1>Hello, my name is Axel! 🖐️
   
-<h2>📋 Certificationss:</h2>
+<a href="https://github.com/axlfranklin">Freelancer</a>, 
+<a href="https://www.linkedin.com/in/axlfranklin/">Cyber Security Analyst 🕵️‍♂</a>
+</h1>
+  
+<h3>📋 Certifications:</h3>
 
  <c> 
    
@@ -13,7 +13,7 @@
   - <a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Computer Network </a> - Alura
   - DevOps School - Alura (in progress)
   - Google Cyber Security Professional (in progress)
-  - Google IT Support Professional (in progress
+  - Google IT Support Professional (in progress)
   - <a href="https://www.udemy.com/certificate/UC-e16c67cb-8cf3-4c64-a9b7-bed8ba0e1b20/"> Fundamentals of Ethical Hacking </a> - Udemy
     
  

@@ -1,20 +1,28 @@
-<h1>Hello, my name is Axel! 🖐️</h1>
-
-<img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me:
+<img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png" >  About Me:
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **root#kali** {
- val name = "AXEL FRANKLIN"
- val acknowledgements = "Cyber_Security_Analyst"
- 
- val primarySkillset = "Red_Team_Freelancer"
- val languages = listOf(Python, PHP, SQL,) 
+```zsh
+┌──(root㉿kali)-[~]
+└─# su Axl
 
-}
+┌──(axl㉿kali)-[~]
+└─# echo 'Cyber Security Analyst Freelancer' >> axl_profile.txt
+
+┌──(axl㉿kali)-[~]
+└─# cat axl_profile.txt
+
+=================================================
+GNU nano 7.2                    New Buffer
+                                
+Hello Welcome to my Github! My name is Axel
+I'm looking for an internship and an opportunity
+to work as a cybersecurity analyst! Hope you
+enjoy my projects as well, as a reminder I'm a
+Cyber Security Analyst Freelancer
+=================================================
 ```
-<h2>Minhas Skills e Tecnologias:</h2>
+<h2>My Skills And Technologies:</h2>
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)

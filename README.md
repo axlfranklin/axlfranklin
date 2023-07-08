@@ -52,7 +52,7 @@ Cyber Security Analyst Freelancer
   - <a href="https://cursos.alura.com.br/degree/certificate/5f2f9f1e-d688-4147-a8cd-6a51c4eb7464?lang=pt_BR">Offensive</a> /<a   href="https://cursos.alura.com.br/degree/certificate/d8283679-f990-4444-86ea-720f0e3f77a0?lang=pt_BR">Defensive </a> Security - Alura
   - <a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Computer Network </a> - Alura
   - DevOps School - Alura (in progress)
-  - Google Cyber Security Professional (in progress)
+  - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KY94XJ75TCWU">Certified Google Cyber Security Professional </a> - Google/Coursera
   - Google IT Support Professional (in progress)
   - <a href="https://www.udemy.com/certificate/UC-e16c67cb-8cf3-4c64-a9b7-bed8ba0e1b20/"> Fundamentals of Ethical Hacking </a> - Udemy
 </c>

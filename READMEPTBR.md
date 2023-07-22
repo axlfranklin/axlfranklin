@@ -73,7 +73,7 @@ Estudante de Segurança Cibernética em meio período.
   - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)
 
 
- <h2>💾 Status do Github:</h2>
+<h2>💾 Status do Github:</h2>
 
 <a align="center"> 
 <table>

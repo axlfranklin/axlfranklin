@@ -6,7 +6,7 @@
 └─# su Axl
 
 ┌──(axl㉿kali)-[~]
-└─# echo 'Cyber Security Analyst Freelancer' >> axl_profile.txt
+└─# echo 'Cyber Security Part Time Student' >> axl_profile.txt
 
 ┌──(axl㉿kali)-[~]
 └─# nano axl_profile.txt
@@ -18,7 +18,7 @@ Hello Welcome to my Github! My name is Axel
 I'm looking for an internship and an opportunity
 to work as a cybersecurity analyst! Hope you
 enjoy my projects as well, as a reminder I'm a
-Cyber Security Analyst Freelancer
+Cyber Security Part Time Student
 
 =================================================
 ```

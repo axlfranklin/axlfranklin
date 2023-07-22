@@ -12,7 +12,7 @@
 └─# nano axl_profile.txt
 
 =================================================
-GNU nano 7.2                    New Buffer
+GNU nano 7.2                    axl_profile.txt
 
 Hello Welcome to my Github! My name is Axel
 I'm looking for an internship and an opportunity

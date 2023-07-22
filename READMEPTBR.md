@@ -6,7 +6,7 @@
 └─# su Axl
 
 ┌──(axl㉿kali)-[~]
-└─# echo 'Estudante de Segurança Cibernética em meio período'>> axl_perfil.txt
+└─# echo 'Estudante de Segurança Cibernética.'>> axl_perfil.txt
 
 ┌──(axl㉿kali)-[~]
 └─# nano axl_perfil.txt
@@ -19,7 +19,7 @@ Estou procurando uma oportunidade de estágio e de
 trabalhar como analista de segurança cibernética!
 Espero que você também aprecie meus projetos,
 lembrando que sou um:
-Estudante de Segurança Cibernética em meio período.
+Estudante de Segurança Cibernética.
 
 =================================================
 ```

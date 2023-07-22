@@ -1,3 +1,9 @@
+## Seja bem-vindo(a) ao meu perfil! 👋
+
+[**Versão em português**](./READMEPTBR.md) | **English Version:**
+
+<!-- English content begins here: -->
+
 ## Hi! 👋 About Me:
 <img align="right" width="390" height="358" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
 

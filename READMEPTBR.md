@@ -51,7 +51,7 @@ Estudante de Segurança Cibernética.
    
   - <a href="https://cursos.alura.com.br/degree/certificate/0c139c72-d024-4140-85ee-2a2e6469d9fc?lang=pt_BR">Cibersegurança </a> - Alura
   - Segurança <a href="https://cursos.alura.com.br/degree/certificate/5f2f9f1e-d688-4147-a8cd-6a51c4eb7464?lang=pt_BR">Ofensiva</a> /<a   href="https://cursos.alura.com.br/degree/certificate/d8283679-f990-4444-86ea-720f0e3f77a0?lang=pt_BR">Defensiva </a> - Alura
-  - <a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Computer Network </a> - Alura
+  - <a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Redes de Computadores </a> - Alura
   - Escola DevOps - Alura (in progress)
   - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KY94XJ75TCWU">Google Profissional Certificado de Cibersegurança </a> - Google/Coursera
   - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9G322BBYFGGN">Google Profissional Certificado de Suporte em TI </a> - Google/Coursera

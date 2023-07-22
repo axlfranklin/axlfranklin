@@ -7,13 +7,13 @@
 
 ┌──(axl㉿kali)-[~]
 └─# echo 'Estudante de Segurança Cibernética em meio período'
->> axl_profile.txt
+>> axl_perfil.txt
 
 ┌──(axl㉿kali)-[~]
-└─# nano axl_profile.txt
+└─# nano axl_perfil.txt
 
 =================================================
-GNU nano 7.2                    Novo arquivo
+GNU nano 7.2                    axl_perfil
 
 Olá! Bem-vindo(a) ao meu Github! Meu nome é Axel
 Estou procurando uma oportunidade de estágio e de

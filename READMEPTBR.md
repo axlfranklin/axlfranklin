@@ -60,15 +60,14 @@ Estudante de Segurança Cibernética em meio período.
 
 <h2>👨‍💻 Projetos de Segurança Cibernética:</h2>
 
-<b>Simulando uma Aplicação Hospedada em um Servidor Web</b>
+- <b>Simulando uma Aplicação Hospedada em um Servidor Web</b>
+  - [Praticando com um Firewall de Aplicação Web](https://github.com/axlfranklin/-Lab) 
 
-Praticando com um Firewall de Aplicação Web
-<b>Script para Força Bruta de um Domínio</b>
+- <b>Script para Força Bruta de um Domínio</b>
+  - [Praticando scripts com Python 3](https://github.com/axlfranklin/Descobrindo-Arquivos-Web/)
 
-Praticando scripts com Python 3
-<b>Auditoria de Segurança</b>
+- <b>Auditoria de Segurança</b>
+  - [Auditoria realizada em uma empresa fictícia](https://github.com/axlfranklin/securityaudit)
 
-Auditoria realizada em uma empresa fictícia
-<b>Script para fazer requisições HTTP</b>
-
-[Praticando em Python3 e utilizando a biblioteca *requests
+- <b>Script para fazer requisições HTTP</b>
+  - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)

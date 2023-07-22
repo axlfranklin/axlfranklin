@@ -6,7 +6,8 @@
 └─# su Axl
 
 ┌──(axl㉿kali)-[~]
-└─# echo 'Estudante de Segurança Cibernética em meio período' >> axl_profile.txt
+└─# echo 'Estudante de Segurança Cibernética em meio período'
+>> axl_profile.txt
 
 ┌──(axl㉿kali)-[~]
 └─# nano axl_profile.txt

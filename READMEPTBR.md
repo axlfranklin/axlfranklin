@@ -1,5 +1,5 @@
 
-## Seja bem-vindo(a) ao meu perfil! 👋
+## Seja bem-vindo(a) ao meu perfil! 👋🕵️‍♂
 
 [**English Version**](./README.md) | **Versão em Inglês**
 

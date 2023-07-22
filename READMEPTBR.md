@@ -71,3 +71,31 @@ Estudante de Segurança Cibernética em meio período.
 
 - <b>Script para fazer requisições HTTP</b>
   - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)
+
+
+ <h2>💾 Status do Github:</h2>
+
+<a align="center"> 
+<table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axlfranklin&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=axlfranklin&theme=github_dark"/></td></tr>
+  </table>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=axlfranklin&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=axlfranklin&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axlfranklin&theme=github_dark"/></td></tr>
+  </table>
+</a>
+<h2>
+🤳 Contatos:
+<br />
+</h2>
+   <a  href="https://www.youtube.com/channel/UC1R-8NoNBB6t42x3QzmwiwA"><img align="left" alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <br />
+  <a  href="https://www.linkedin.com/in/axlfranklin/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <br />
+ <a  href="https://www.instagram.com/axlwasdead/"><img align="left" alt="Youtube" title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<br />
+ <a  href="https://discordapp.com/users/302164024936890370">
+ <img align="left" alt="Instagram" title="Discord"
+ src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/><a/>

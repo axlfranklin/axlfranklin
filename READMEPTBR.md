@@ -1,7 +1,7 @@
 
 ## Seja bem-vindo(a) ao meu perfil! 👋
 
-[**English Version**](./READMEPTBR.md) | **Versão em Inglês**
+[**English Version**](./README.md) | **Versão em Inglês**
 
 <!-- Conteúdo em português começa aqui -->
 

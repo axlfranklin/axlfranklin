@@ -6,7 +6,7 @@
 <!-- Conteúdo em português começa aqui -->
 
 ## Olá! 👋 Sobre Mim:
-<img align="right" width="390" height="370" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
+<img align="right" width="390" height="380" src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-502.gif" />
 
 ```ruby
 ┌──(root㉿kali)-[~]

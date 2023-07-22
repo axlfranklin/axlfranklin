@@ -1,4 +1,4 @@
-## Seja bem-vindo(a) ao meu perfil! 👋
+## Welcome to My Profile! 👋🕵️‍♂
 
 [**Versão em português**](./READMEPTBR.md) | **English Version:**
 

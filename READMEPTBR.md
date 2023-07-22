@@ -13,7 +13,7 @@
 └─# nano axl_perfil.txt
 
 =================================================
-GNU nano 7.2                    axl_perfil
+GNU nano 7.2                    axl_perfil.txt
 
 Olá! Bem-vindo(a) ao meu Github! Meu nome é Axel
 Estou procurando uma oportunidade de estágio e de

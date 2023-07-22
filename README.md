@@ -1,6 +1,6 @@
 ## Welcome to My Profile! 👋🕵️‍♂
 
-[**Versão em português**](./READMEPTBR.md) | **PTBR Version**
+[**Versão em Português**](./READMEPTBR.md) | **Portuguese Version**
 
 <!-- English content begins here: -->
 

@@ -46,16 +46,20 @@ Estudante de Segurança Cibernética em meio período.
 <h2 align="left"> 
   📋 Certificações:
 </h2>
+
  <c> 
-<a href="https://cursos.alura.com.br/degree/certificate/0c139c72-d024-4140-85ee-2a2e6469d9fc?lang=pt_BR">Segurança Cibernética</a> - Alura
-<a href="https://cursos.alura.com.br/degree/certificate/5f2f9f1e-d688-4147-a8cd-6a51c4eb7464?lang=pt_BR">Segurança Ofensiva</a> /<a   href="https://cursos.alura.com.br/degree/certificate/d8283679-f990-4444-86ea-720f0e3f77a0?lang=pt_BR">Defensiva</a> - Alura
-<a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Rede de Computadores</a> - Alura
-Escola DevOps - Alura (em andamento)
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KY94XJ75TCWU">Profissional de Segurança Cibernética Certificado pelo Google </a> - Google/Coursera
-<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9G322BBYFGGN">Profissional de TI Certificado pelo Google </a> - Google/Coursera
-<a href="https://www.udemy.com/certificate/UC-e16c67cb-8cf3-4c64-a9b7-bed8ba0e1b20/"> Fundamentos de Ethical Hacking </a> - Udemy
+   
+  - <a href="https://cursos.alura.com.br/degree/certificate/0c139c72-d024-4140-85ee-2a2e6469d9fc?lang=pt_BR">Cibersegurança </a> - Alura
+  - <a href="https://cursos.alura.com.br/degree/certificate/5f2f9f1e-d688-4147-a8cd-6a51c4eb7464?lang=pt_BR">Offensive</a> /<a   href="https://cursos.alura.com.br/degree/certificate/d8283679-f990-4444-86ea-720f0e3f77a0?lang=pt_BR">Defensive </a> Security - Alura
+  - <a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Computer Network </a> - Alura
+  - Escola DevOps - Alura (in progress)
+  - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KY94XJ75TCWU">Google Profissional Certificado de Cibersegurança </a> - Google/Coursera
+  - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9G322BBYFGGN">Google Profissional Certificado de Suporte em TI </a> - Google/Coursera
+  - <a href="https://www.udemy.com/certificate/UC-e16c67cb-8cf3-4c64-a9b7-bed8ba0e1b20/">Fundamentos de Ethical Hacking </a> - Udemy
 </c>
+
 <h2>👨‍💻 Projetos de Segurança Cibernética:</h2>
+
 <b>Simulando uma Aplicação Hospedada em um Servidor Web</b>
 
 Praticando com um Firewall de Aplicação Web

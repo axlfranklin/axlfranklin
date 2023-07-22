@@ -18,7 +18,7 @@ Olá! Bem-vindo(a) ao meu Github! Meu nome é Axel
 Estou procurando uma oportunidade de estágio e de
 trabalhar como analista de segurança cibernética!
 Espero que você também aprecie meus projetos,
-lembrando que sou um
+lembrando que sou um:
 Estudante de Segurança Cibernética em meio período.
 
 =================================================

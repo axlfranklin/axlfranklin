@@ -79,6 +79,14 @@ Estudante de Segurança Cibernética.
 - <b>Script para fazer requisições HTTP</b>
   - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)
 
+<h2>🕵️‍♂ CTF TryHackMe Rooms:</h2> 
+
+<c> 
+   
+  - <a href="https://tryhackme.com/room/lazyadmin">Lazy Admin </a>
+  - <a href="https://tryhackme.com/room/introtooffensivesecurity">Intro to Offensive Security </a>
+  - <a href="https://tryhackme.com/room/nmap01">Nmap Live Host </a>
+</c>
 
 <h2>💾 Status do Github:</h2>
 

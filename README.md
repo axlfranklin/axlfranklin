@@ -77,7 +77,7 @@ Cyber Security Part Time Student
 - <b>Script to make HTTP requests</b>
   - [Practicing in Python3 and the library *requests*](https://github.com/axlfranklin/bannergrabber)
 
-<h2>🕵️‍♂ CTF TryHackMe Rooms:</h2> 
+<h2>🕵️‍♂ TryHackMe Rooms:</h2> 
 
 <c> 
 

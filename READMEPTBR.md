@@ -79,7 +79,7 @@ Estudante de Segurança Cibernética.
 - <b>Script para fazer requisições HTTP</b>
   - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)
 
-<h2>🕵️‍♂ CTF TryHackMe Rooms:</h2> 
+<h2>🕵️‍♂ TryHackMe Rooms:</h2> 
 
 <c> 
 

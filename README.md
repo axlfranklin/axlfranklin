@@ -79,6 +79,7 @@ Cyber Security Part Time Student
 
 <h2>🕵️‍♂ TryHackMe Rooms:</h2> 
 
+![tryhackme stats](https://raw.githubusercontent.com/muteshogunguy/muteshogunguy/master/assets/thm_propic.png)
 
 <c> 
 

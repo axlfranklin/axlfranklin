@@ -79,7 +79,6 @@ Cyber Security Part Time Student
 
 <h2>🕵️‍♂ TryHackMe Rooms:</h2> 
 
-<script src="https://tryhackme.com/badge/1893070"></script>
 
 <c> 
 

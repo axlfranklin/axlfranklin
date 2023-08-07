@@ -79,7 +79,7 @@ Cyber Security Part Time Student
 
 <h2>🕵️‍♂ TryHackMe Rooms:</h2> 
 
-![tryhackme stats](https://raw.githubusercontent.com/axlfranklin/axlfranklin/master/assets/thm_propic.png)
+<a href="https://tryhackme.com/p/muteshotgunguy">![tryhackme stats](https://raw.githubusercontent.com/axlfranklin/axlfranklin/master/assets/thm_propic.png) </a>
 
 <c> 
 

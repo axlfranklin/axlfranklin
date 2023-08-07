@@ -80,7 +80,9 @@ Estudante de Segurança Cibernética.
   - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)
 
 <h2>🕵️‍♂ TryHackMe Rooms:</h2> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/muteshotgunguy.png" alt="TryHackMe">
+
+<a href="https://tryhackme.com/p/muteshotgunguy">![tryhackme stats](https://raw.githubusercontent.com/axlfranklin/axlfranklin/master/assets/thm_propic.png) </a>
+
 <c> 
 
   - <a href="https://tryhackme.com/room/introtooffensivesecurity">Intro to Offensive Security </a>

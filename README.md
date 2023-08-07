@@ -79,7 +79,8 @@ Cyber Security Part Time Student
 
 <h2>🕵️‍♂ TryHackMe Rooms:</h2> 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/muteshotgunguy.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/1893070"></script>
+
 <c> 
 
   - <a href="https://tryhackme.com/room/introtooffensivesecurity">Intro to Offensive Security </a>

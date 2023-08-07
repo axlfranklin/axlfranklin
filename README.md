@@ -81,17 +81,6 @@ Cyber Security Part Time Student
 
 <a href="https://tryhackme.com/p/muteshotgunguy">![tryhackme stats](https://raw.githubusercontent.com/axlfranklin/axlfranklin/master/assets/thm_propic.png) </a>
 
-<c> 
-
-  - <a href="https://tryhackme.com/room/introtooffensivesecurity">Intro to Offensive Security </a>
-  - <a href="https://tryhackme.com/room/nmap01">Nmap Live Host </a>
-  - <a href="https://tryhackme.com/room/lazyadmin">Lazy Admin CTF </a>
-  - <a href='https://tryhackme.com/muteshotgunguy/badges/mr-robot'>Mr.Robot CTF </a>
-  - <a href='https://tryhackme.com/room/picklerick'>Pickle Rick CTF </a>
-  - <a href='https://tryhackme.com/room/easyctf'>Easy CTF </a>
-  - <a href='https://tryhackme.com/room/cowboyhacker'>Bounty Hacker CTF </a>
-</c>
-
 <h2>💾 Github Stats:</h2>
 
 <a align="center"> 

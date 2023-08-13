@@ -79,9 +79,12 @@ Estudante de Segurança Cibernética.
 - <b>Script para fazer requisições HTTP</b>
   - [Praticando em Python3 e utilizando a biblioteca *requests*](https://github.com/axlfranklin/bannergrabber)
 
-<h2>🕵️‍♂ TryHackMe Rooms:</h2> 
+<h2>🕵 TryHackMe Rooms:</h2> 
 
-<a href="https://tryhackme.com/p/muteshotgunguy">![tryhackme stats](https://raw.githubusercontent.com/axlfranklin/axlfranklin/master/assets/thm_propic.png) </a>
+<a href="https://tryhackme.com/p/muteshotgunguy"><img src="https://tryhackme-badges.s3.amazonaws.com/muteshotgunguy.png" alt="TryHackMe"> </a>
+<h2>🕵 Hack The Box Rooms:</h2>
+
+<a href="https://app.hackthebox.com/profile/1598640"><img src="https://www.hackthebox.com/badge/image/1598640" alt="Hack The Box"> </a>
 
 <h2>💾 Status do Github:</h2>
 

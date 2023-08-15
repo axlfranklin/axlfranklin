@@ -77,13 +77,13 @@ Cyber Security Part Time Student
 - <b>Script to make HTTP requests</b>
   - [Practicing in Python3 and the library *requests*](https://github.com/axlfranklin/bannergrabber)
 
-<h2>🚩 TryHackMe Profile 🚩:</h2> 
-
-<a href="https://tryhackme.com/p/muteshotgunguy"><img src="https://tryhackme-badges.s3.amazonaws.com/muteshotgunguy.png" alt="TryHackMe"> </a>
-
-<h2>🚩 Hack The Box Profile 🚩:</h2>
+<h2>🚩 Hack The Box Profile 🚩</h2>
 
 <a href="https://app.hackthebox.com/profile/1598640"><img src="https://www.hackthebox.com/badge/image/1598640" alt="Hack The Box"> </a>
+
+<h2>🚩 TryHackMe Profile 🚩</h2> 
+
+<a href="https://tryhackme.com/p/muteshotgunguy"><img src="https://tryhackme-badges.s3.amazonaws.com/muteshotgunguy.png" alt="TryHackMe"> </a>
 
 <h2>💾 Github Stats:</h2>
 

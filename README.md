@@ -83,7 +83,7 @@ Cyber Security Part Time Student
 
 <h2>🚩 TryHackMe Profile 🚩</h2> 
 
-<a href="https://tryhackme.com/p/pigs4w"><img src="https://tryhackme-badges.s3.amazonaws.com/muteshotgunguy.png" alt="TryHackMe"> </a>
+<a href="https://tryhackme.com/p/pigs4w"><img src="https://tryhackme-badges.s3.amazonaws.com/pigs4w" alt="TryHackMe"> </a>
 
 <h2>💾 Github Stats:</h2>
 

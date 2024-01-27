@@ -53,11 +53,10 @@ Cyber Security Part Time Student
 </h2>
 
  <c> 
-   
+  - <a href="https://certs.ine.com/9923b7b7-499d-4691-b2e4-919b4f1dec53#gs.3ltli5">eJPT </a> - INE Security 
   - <a href="https://cursos.alura.com.br/degree/certificate/0c139c72-d024-4140-85ee-2a2e6469d9fc?lang=pt_BR">Cyber Security </a> - Alura
   - <a href="https://cursos.alura.com.br/degree/certificate/5f2f9f1e-d688-4147-a8cd-6a51c4eb7464?lang=pt_BR">Offensive</a> /<a   href="https://cursos.alura.com.br/degree/certificate/d8283679-f990-4444-86ea-720f0e3f77a0?lang=pt_BR">Defensive </a> Security - Alura
   - <a href="https://cursos.alura.com.br/degree/certificate/aac795d5-6dc9-4873-bbf6-c373ad84be87">Computer Network </a> - Alura
-  - DevOps School - Alura (in progress)
   - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KY94XJ75TCWU">Certified Google Cyber Security Professional </a> - Google/Coursera
   - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9G322BBYFGGN">Certified Google IT Professional </a> - Google/Coursera
   - <a href="https://www.udemy.com/certificate/UC-e16c67cb-8cf3-4c64-a9b7-bed8ba0e1b20/"> Fundamentals of Ethical Hacking </a> - Udemy

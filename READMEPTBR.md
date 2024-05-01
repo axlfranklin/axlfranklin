@@ -69,6 +69,9 @@ Estudante de Segurança Cibernética.
 
 <h2>👨‍💻 Projetos de Segurança Cibernética:</h2>
 
+- <b>Razor Box</b>
+  - [Scanner de Portas em GO](https://github.com/axlfranklin/razorbox) 
+
 - <b>Simulando uma Aplicação Hospedada em um Servidor Web</b>
   - [Praticando com um Firewall de Aplicação Web](https://github.com/axlfranklin/-Lab) 
 
